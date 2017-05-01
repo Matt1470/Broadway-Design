@@ -1,0 +1,29 @@
+h1 {
+font-family: Helvetica;    font-size: 70px;    text-align: center;    font-weight: bold;    color: white;
+}
+p {
+  text-align: center;    font-size: 18px;    color: white;
+}
+
+
+
+
+.background {
+background-image: url("../images/flatiron.png");
+}
+
+.banner {
+  font-family: Helvetica;
+  font-size: 70px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+
+}
+
+.nav  a{
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
