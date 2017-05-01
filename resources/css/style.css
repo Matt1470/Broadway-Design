@@ -1,15 +1,21 @@
 h1 {
-font-family: Helvetica;    font-size: 70px;    text-align: center;    font-weight: bold;    color: white;
+font-family: Helvetica;
+font-size: 70px;
+text-align: center;
+font-weight: bold;
+color: white;
 }
+
 p {
-  text-align: center;    font-size: 18px;    color: white;
+text-align: center;
+font-size: 18px;
+color: white;
 }
-
-
-
 
 .background {
 background-image: url("../images/flatiron.png");
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 .banner {
@@ -26,4 +32,39 @@ background-image: url("../images/flatiron.png");
   text-align: center;
   font-size: 18px;
   color: white;
+}
+
+.process p{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: black;
+}
+
+.identify p {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+
+.set1 p {
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+  color: black;
+
+}
+
+.newyork {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/flatiron.png");
+
+}
+
+.token {
+text-align: center;
 }
